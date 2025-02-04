@@ -14,8 +14,16 @@ export const projectsData = [
         projectName: 'Tuzuruwapi',
         projectDesc: 'This project has multiuser role logins.',
         tags: ['PHP', 'HTML' ,'CSS', 'Javascript', 'SQL'],
-        demo: 'https://www.tuzuruwapi.co.ke',
+        website: 'https://www.tuzuruwapi.co.ke',
         image: "https://github.com/JohnKj01/developer-portfolio-main/blob/main/public/projectsImages/tuzuruwapi.png?raw=true"
+    },
+    {
+        id: 2,
+        projectName: 'SmartLegal Africa',
+        projectDesc: 'This project supports legal staff in management of document templates.',
+        tags: ['PHP', 'HTML' ,'CSS', 'Javascript', 'SQL'],
+        website: 'https://smartlegal.africa/',
+        image: "https://github.com/JohnKj01/developer-portfolio-main/blob/main/public/projectsImages/smartlegal.png?raw=true"
     },
     
 ]

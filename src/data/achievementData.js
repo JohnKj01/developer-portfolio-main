@@ -16,7 +16,7 @@ export const achievementData = {
             date : '31st Jan, 2024',
             field : 'Development',
             image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-91ae3ea2-39ee-4a57-bf23-d397aff0d9a7.jpg?v=1621951317000'
-        },
+        }
         
     ]
 }
