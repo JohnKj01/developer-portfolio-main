@@ -38,7 +38,7 @@ git checkout -b <branch name>
 
 4. Before committing changes, you should verify if the issue is fixed
 
-5. Commit your changes. Try to follow the [best practices](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53) while committing changes.
+5. Commit your changes. Try to follow the [best practices] while committing changes.
 
 ```bash
 git commit -s

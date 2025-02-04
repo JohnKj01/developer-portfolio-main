@@ -11,7 +11,7 @@
     'PHP',
     'Typescript',
     'Bootstrap',
-    'MUI',
+    'MaterialUI',
     'Figma',
     'Tailwind',
     'Wordpress'
