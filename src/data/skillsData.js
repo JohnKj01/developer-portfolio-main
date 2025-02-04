@@ -3,10 +3,19 @@
     'Javascript',
     'CSS',
     'React',
-    'Django',
     'MongoDB',
     'MySQL',
-    'Python'
+    'React',
+    'Bootstrap',
+    'Ruby',
+    'PHP',
+    'Typescript',
+    'Bootstrap',
+    'MUI',
+    'Figma',
+    'Tailwind',
+    'Wordpress'
+
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
